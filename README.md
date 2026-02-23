@@ -5,14 +5,14 @@ This project analyzes student profiles to predict the probability of admission t
 Performed comprehensive EDA to understand feature distributions and correlations.
 Applied data preprocessing techniques including missing value handling, feature scaling, and encoding.
 
-Built and compared multiple models:
-Linear Regression
-Regularized Models (Ridge & Lasso)
+Built and compared multiple models:  
+  Linear Regression, 
+  Regularized Models (Ridge & Lasso)
 
 Evaluated performance using:
-R² Score
-RMSE
-Cross-validation
+  R² Score,
+  RMSE,
+  Cross-validation
 
 Analyzed feature importance and interpreted model coefficients.
 Provided actionable insights on factors influencing admission chances.
